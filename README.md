@@ -8,4 +8,4 @@ weather app search by city
 ## use cases
   1. open the app and enter city name in text box by clicking search icon
   2. check weather details in the page
- ![img.png](img.png)![img_1.png](img_1.png)![img_2.png](img_2.png)![img_4.png](img_4.png)!![img.png](img.png)[img_3.png](img_3.png)![img_5.png](img_5.png)
+![img_1.png](img_1.png)![img_2.png](img_2.png)![img_4.png](img_4.png)!![img.png](img.png)[img_3.png](img_3.png)![img_5.png](img_5.png)
